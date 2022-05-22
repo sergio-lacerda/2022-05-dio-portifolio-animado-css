@@ -16,7 +16,7 @@
 ---
 
 ## 🖼️ Preview
-![](https://github.com/sergio-lacerda/2022-05-dio-portifolio-animado-css/blob/master/img/preview.gif)
+https://github.com/sergio-lacerda/2022-05-dio-portifolio-animado-css/blob/master/videos/preview.mp4
 
 ---
 
