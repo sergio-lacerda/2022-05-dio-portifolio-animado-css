@@ -9,4 +9,4 @@ _**[Português]**_ Esta e uma single page simulando um portfólio pessoal basead
 - HTML 5
 - CSS 3
 
-?[](img/preview.gif)
+?[](https://github.com/sergio-lacerda/2022-05-dio-portifolio-animado-css/blob/master/img/preview.gif)
